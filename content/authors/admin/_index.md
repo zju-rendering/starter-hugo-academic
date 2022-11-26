@@ -1,7 +1,7 @@
 ---
 title: Yuchi Huo 霍宇驰
 role: Assistant Research Professor
-avatar_filename: hyc.png
+avatar_filename: avatar.png
 bio: ZJU rendering
 interests:
   - neural rendering
